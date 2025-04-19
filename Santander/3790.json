@@ -1,0 +1,181 @@
+[
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "95.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000009500",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "864.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000086400",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "234.56",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000023456",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "9874.90",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000987490",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "453.50",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000045350",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "2674.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000267400",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "80.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000008000",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "420.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000042000",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "77.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000007700",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "321.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000032100",
+        "classe": "caracteristicasVerdadeiras"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "011",
+        "agencia": "3790",
+        "valor": "95.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000009500",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "1234",
+        "valor": "864.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000086400",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "234.56",
+        "linhaDigitavel": "98690.00000 00000.000000 00000.000000 0 00000000023456",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "9874.90",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000009987490",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "847",
+        "agencia": "3790",
+        "valor": "453.50",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000045350",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "2674.00",
+        "linhaDigitavel": "03360.00000 00000.000000 00000.000000 0 00000000267400",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "80.00",
+        "linhaDigitavel": "03320.00000 00000.000000 00000.000000 0 00000000008000",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "4830",
+        "valor": "420.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000042000",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "77.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000007700000",
+        "classe": "caracteristicasFalsas"
+    },
+
+    {
+        "banco": "Santander",
+        "codigoBanco": "033",
+        "agencia": "3790",
+        "valor": "321.00",
+        "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000321000000",
+        "classe": "caracteristicasFalsas"
+    }
+]
